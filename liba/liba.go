@@ -1,5 +1,5 @@
 package liba
 
 func TestA() string {
-	return "a"
+	return "a rev2"
 }
